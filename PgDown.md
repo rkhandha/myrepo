@@ -1,7 +1,7 @@
 
 ### PGDown 
 <pre>
-sample <b>sample</b> sample
+sample <b>sample</b> sample <span style="background-color:yellow"> highlight</span
 </pre>
 
 
