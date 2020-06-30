@@ -2,6 +2,7 @@
 ### PGDown 
 <pre>
 sample <b>sample</b> sample <span style="background-color:yellow"> highlight</span>
+<span style="color:orange;">ORange color</span>
 </pre>
 
 
